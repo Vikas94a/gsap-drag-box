@@ -13,7 +13,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-a {
+/* a {
   font-weight: 500;
   color: #646cff;
   text-decoration: inherit;
@@ -93,9 +93,10 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+}*/
+
 .container {
-  height: 80vh;
+  height: 200vh;
   width: 80%;
   background-color: red;
   margin-left: 70px;
@@ -113,4 +114,13 @@ button:focus-visible {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#circle {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 50%;
+  position: absolute;
+  top: 0px;
 }
