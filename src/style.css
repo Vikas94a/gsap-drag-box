@@ -120,7 +120,8 @@ button:focus-visible {
   width: 100px;
   height: 100px;
   background-color: blue;
-  border-radius: 50%;
+  border-radius: 30%;
   position: absolute;
   top: 0px;
+
 }
