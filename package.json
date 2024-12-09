@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Vikas94a/gsap-drag-box.git",
+  "homepage": "https://vikas94a.github.io/gsap-drag-box.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
